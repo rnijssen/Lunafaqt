@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to Lunafaqt, my Android application. As a solo developer, I am committed to protect your personal data and your right to privacy. If you have any questions or concerns about my policy, or my practices with regards to your personal information, please contact me.
+Welcome to Lunafaqt, my Android application. As the solo developer of this app, I am committed to protecting your personal data and your right to privacy. If you have any questions or concerns about my policy, or my practices with regards to your personal information, please contact me.
 
 This privacy policy applies to all information collected through Lunafaqt ("App").
 
